@@ -1,0 +1,7 @@
+{
+  "name": "Animal Gym - Jojutla",
+  "description": "Sitio web oficial de Animal Gym en Jojutla, Morelos. Entrena con los mejores, despierta tu instinto y alcanza tus metas fitness.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
